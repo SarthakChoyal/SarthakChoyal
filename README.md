@@ -2,10 +2,10 @@
 - 👀 I’m interested in Hacking and Programming
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Emails (Snakec2009@gmail.com) (Sarthak.Choyal@gmail.com)
+
 - 🖥 Check out my website! http://sarthak-enterprises.tk/
 
-- DO NOT EVER HACK ANYONE WITHOUT THEIR ABSOLUTE PERMISSION (You can be fined and can be locked up for hacking someone without absolute permission BE CAREFUL)
+You co
 
 <!---
 SarthakChoyal/SarthakChoyal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
