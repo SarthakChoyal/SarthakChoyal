@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on ...
 
-- 🖥 Check out my website! http://sarthak-enterprises.tk/
+- 🖥 Check out my website! http://sarthak-enterprises.tk
 
-You co
+
 
 <!---
 SarthakChoyal/SarthakChoyal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
