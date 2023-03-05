@@ -1,4 +1,4 @@
-# Sarthak Choyal ![Logo](Sarthak Browser.png)
+# Sarthak Choyal ![Logo](sarthaklogo.png)
 **`Digital Developer`**
 
 
