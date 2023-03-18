@@ -26,13 +26,12 @@
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
 
+---
 
-- 👋 Hi, I’m @SarthakChoyal
+### 👋 Hi, I’m @SarthakChoyal
 - 👀 I’m interested in Hacking and Programming
 - 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on ...
-
-- 🖥 Check out my website! http://sarthak-enterprises.tk
+- 🖥 Check out my website! https://sarthakchoyal.github.io/SarthakChoyalPortfolio/#
 
 
 
